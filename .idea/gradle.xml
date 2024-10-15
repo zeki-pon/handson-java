@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/convert-string-xml-to-document-node" />
+            <option value="$PROJECT_DIR$/using-mockmvc-vs-webmvctest" />
           </set>
         </option>
       </GradleProjectSettings>
