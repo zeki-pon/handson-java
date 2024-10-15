@@ -1,7 +1,7 @@
 # 概要
 java関連で気になった記事などについて、手を動かして確認してみるプロジェクト<br>
 
-# TODO:各ハンズオンをサブプロジェクトに切り出す
+# 各ハンズオンをサブプロジェクトに切り出す
 - https://docs.gradle.org/current/userguide/intro_multi_project_builds.html#sec:project_standard
 - https://docs.gradle.org/current/userguide/custom_plugins.html#sec:convention_plugins
 - https://docs.gradle.org/current/userguide/writing_plugins.html
