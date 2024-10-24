@@ -12,6 +12,11 @@ java関連で気になった記事などについて、手を動かして確認�
 この記事によると、buildSrcは将来的に非推奨となるらしいのでcomposite pluginに変更が必要<br>
 - - https://speakerdeck.com/mkeeda/5fen-defen-karubirudorozitukugong-tong-hua-nojin?slide=12
 
-# 試した内容メモ
+# IN PROGRESS
+- [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources)
+
+# DONE
+- [A Guide to JPA with Spring](https://www.baeldung.com/the-persistence-layer-with-spring-and-jpa)
+- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
 - [Convert String XML Fragment to Document Node in Java](https://www.baeldung.com/java-xml-fragment-document-node)
 - [Using MockMvc With SpringBootTest vs, Using WebMvcTest](https://www.baeldung.com/spring-mockmvc-vs-webmvctest)

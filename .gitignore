@@ -9,6 +9,7 @@ build/
 .idea/kotlinc.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
+.idea/uiDesigner.xml
 .idea/libraries/
 *.iws
 *.iml
