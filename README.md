@@ -13,6 +13,7 @@ java関連で気になった記事などについて、手を動かして確認�
 - - https://speakerdeck.com/mkeeda/5fen-defen-karubirudorozitukugong-tong-hua-nojin?slide=12
 
 # IN PROGRESS
+- [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
 - [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources)
 
 # DONE
