@@ -13,10 +13,10 @@ java関連で気になった記事などについて、手を動かして確認�
 - - https://speakerdeck.com/mkeeda/5fen-defen-karubirudorozitukugong-tong-hua-nojin?slide=12
 
 # IN PROGRESS
-- [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
-- [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources)
 
 # DONE
+- [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
+- [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources)
 - [A Guide to JPA with Spring](https://www.baeldung.com/the-persistence-layer-with-spring-and-jpa)
 - [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
 - [Convert String XML Fragment to Document Node in Java](https://www.baeldung.com/java-xml-fragment-document-node)

@@ -1,0 +1,20 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    todos:
+      url: jdbc:h2:mem:todos;MODE=PostgreSQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH
+      driverClassName: org.h2.Driver
+      username: sa
+      password: null
+      schema: classpath:schema-todos.sql,classpath:data-todos.sql
+      configuration:
+        maximum-pool-size: 30
+    topics:
+      url: jdbc:h2:mem:topics;MODE=PostgreSQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH
+      driverClassName: org.h2.Driver
+      username: sa
+      password: null
+      schema: classpath:schema-topics.sql,classpath:data-topics.sql
+      max-total: 30
