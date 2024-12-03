@@ -1,5 +1,6 @@
 rootProject.name = "handson-java"
 include("java-lang:convert-string-xml-to-document-node")
+include("java-lang:custom-annotation")
 include("spring:using-mockmvc-vs-webmvctest")
 include("spring:spring-boot-configure-multiple-datasources")
 include("spring:spring-data-jpa")
