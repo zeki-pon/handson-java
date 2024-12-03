@@ -17,4 +17,13 @@ public class MyClass {
             System.out.println(e);
         }
     }
+
+    public void methodParent1() {
+        System.out.println("methodParent1");
+    }
+
+    @MyAnnotation(value1 = "mp2", value2 = 999)
+    public void methodParent2() {
+        System.out.println("methodParent2");
+    }
 }
