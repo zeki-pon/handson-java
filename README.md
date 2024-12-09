@@ -1,5 +1,6 @@
 # 概要
 java関連で気になった記事などについて、手を動かして確認してみるプロジェクト<br>
+Kotlinのハンズオンも本プロジェクトで管理する。<br>
 
 # 各ハンズオンをサブプロジェクトに切り出す
 - https://docs.gradle.org/current/userguide/intro_multi_project_builds.html#sec:project_standard
@@ -11,13 +12,3 @@ java関連で気になった記事などについて、手を動かして確認�
 # TODO
 この記事によると、buildSrcは将来的に非推奨となるらしいのでcomposite pluginに変更が必要<br>
 - - https://speakerdeck.com/mkeeda/5fen-defen-karubirudorozitukugong-tong-hua-nojin?slide=12
-
-# IN PROGRESS
-
-# DONE
-- [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
-- [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources)
-- [A Guide to JPA with Spring](https://www.baeldung.com/the-persistence-layer-with-spring-and-jpa)
-- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
-- [Convert String XML Fragment to Document Node in Java](https://www.baeldung.com/java-xml-fragment-document-node)
-- [Using MockMvc With SpringBootTest vs, Using WebMvcTest](https://www.baeldung.com/spring-mockmvc-vs-webmvctest)
