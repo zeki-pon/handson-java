@@ -7,9 +7,16 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.5.0"
 }
 rootProject.name = "handson-java"
-include("kotlin-lang:android-training")
+
+// Java
 include("java-lang:convert-string-xml-to-document-node")
 include("java-lang:custom-annotation")
+include("java-lang:try-with-resources")
+
+// kotlin
+include("kotlin-lang:android-training")
+
+// spring
 include("spring:using-mockmvc-vs-webmvctest")
 include("spring:spring-boot-configure-multiple-datasources")
 include("spring:spring-boot-security")
